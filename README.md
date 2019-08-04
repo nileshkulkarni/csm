@@ -4,5 +4,29 @@ Nilesh Kulkarni, Abhinav Gupta\*, Shubham Tulsiani\*
 
 [Project Page](https://nileshkulkarni.github.io/csm/)
 
-Code coming soon!
+![teaser](https://github.com/nileshkulkarni/csm/blob/gh-pages/resources/images/teaser.png)
+
+# Requirements
+-  Python 2.7
+-  PyTorch 0.4
+
+
+# Installation
+Following instructions [here](installation.md)
+
+# Demo
+Coming soon.
+
+# Training
+Please see [csm/docs/training.md](csm/docs/training.md)
+
+# Testing
+Please see [csm/docs/testing.md](csm/docs/testing.md)
+
+# Ablation Analysis
+Please see [csm/docs/ablation.md](csm/docs/ablation.md)
+
+
+# Baselines
+Coming soon.
 
