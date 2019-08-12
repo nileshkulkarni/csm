@@ -30,3 +30,18 @@ Please see [csm/docs/ablation.md](csm/docs/ablation.md)
 # Baselines
 Coming soon.
 
+
+### Citation
+If you use this code for your research, please consider citing:
+```
+
+@article{kulkarni2019csm,
+  title={Canonical Surface Mapping via Geometric Cycle Consistency},
+  author={Kulkarni, Nilesh
+  and Gupta, Abhinav
+  and Tulsiani, Shubham},
+  journal={International Conference on Computer Vision (ICCV)}
+  year={2019}
+}
+
+```
