@@ -9,8 +9,13 @@ wget http://www.vision.caltech.edu/visipedia-data/CUB-200-2011/CUB_200_2011.tgz 
 2. Download our [annotation files](https://cmu.box.com/s/e8y71bjuwxrdrypy44zu3z8qexmnyqp4) and pre-computed UV parameterization outputs. Do this from the csm_root/csm/ directory, and this should make csm_root/csm/cachedir directory
 
 ```
+wget https://cmu.box.com/s/goter3meyi7rssbh2rujg36dfwygnc3f && unzip cachedir.zip
+```
+<!--
+```
 wget https://cmu.box.com/s/e8y71bjuwxrdrypy44zu3z8qexmnyqp4 && tar -xf cachedir.tgz
 ```
+-->
 
 ## Computing the UV parameterization
 Please read the instruction here to create the above parametrization if you would like to recompute [here]()
