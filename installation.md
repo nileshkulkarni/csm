@@ -1,4 +1,4 @@
-
+Note this implementation works with pytorch=0.4.0 and cuda8.0.
 ## Create a conda environment
 
 ```
