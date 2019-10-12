@@ -34,7 +34,6 @@ Coming soon.
 ### Citation
 If you use this code for your research, please consider citing:
 ```
-
 @article{kulkarni2019csm,
   title={Canonical Surface Mapping via Geometric Cycle Consistency},
   author={Kulkarni, Nilesh
@@ -45,3 +44,6 @@ If you use this code for your research, please consider citing:
 }
 
 ```
+
+### Acknowledgements
+Parts of this code were borrowed from [CMR](https://github.com/akanazawa/cmr).
