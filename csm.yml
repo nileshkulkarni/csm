@@ -92,9 +92,11 @@ dependencies:
   - torchvision=0.2.1=py27_1
   - pip:
     - backports.shutil-get-terminal-size==1.0.0
+    - chainer==5.2.0
     - chardet==3.0.4
     - chumpy==0.68
     - configparser==3.5.0
+    - cupy==5.2.0
     - cython==0.27.3
     - decorator==4.3.0
     - defusedxml==0.5.0
