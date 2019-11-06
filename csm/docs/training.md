@@ -55,6 +55,7 @@ python -m csm.experiments.csm.csp --name=csm_car_net_wpose --n_data_workers=4 --
 ```
 
 ### Train on Imagenet Classes
+Download Imagenet data [here](https://cmu.box.com/s/9191n946eabqiaabe3owgchoq1buif5o) for categories in the paper.
 ```
 imnet_class=horse
 CODE_ROOT=/home/nileshk/csm_root/
