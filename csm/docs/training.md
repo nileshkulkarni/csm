@@ -10,6 +10,8 @@ wget http://www.vision.caltech.edu/visipedia-data/CUB-200-2011/CUB_200_2011.tgz 
 
 ```
 wget https://cmu.box.com/s/goter3meyi7rssbh2rujg36dfwygnc3f && unzip cachedir.zip
+Alternate link.
+wget https://umich.box.com/s/nncgnzht90s9dnahodel116hgykmmf6o && unzip cachedir.zip
 ```
 <!--
 ```
