@@ -5,7 +5,6 @@ For classes bird, car, horse, sheep, cow, zebra the uv parametrization exists in
 CSM_ROOT=/home/nileshk/csm_root/
 
 
-Please refer to the exact process to create the mapping between a sphere and the template shape [here]()
 ```
 cd  $CSM_ROOT/csm/preprocess/meshdeform/
 ```
