@@ -13,7 +13,7 @@ pip install -U pip
 pip download cupy==2.3.0
 tar -xf cupy-2.3.0.tar.gz
 cd cupy-2.3.0
-python install setup.py
+python setup.py install 
 ```
 
 ## Download & clone the repo
