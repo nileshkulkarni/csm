@@ -14,8 +14,6 @@ Nilesh Kulkarni, Abhinav Gupta\*, Shubham Tulsiani\*
 ### Installation
 Following instructions [here](installation.md)
 
-### Demo
-Coming soon.
 
 ### Training
 Please see [csm/docs/training.md](csm/docs/training.md)
@@ -26,9 +24,6 @@ Please see [csm/docs/testing.md](csm/docs/testing.md)
 ### Ablation Analysis
 Please see [csm/docs/ablation.md](csm/docs/ablation.md)
 
-
-### Baselines
-Coming soon.
 
 
 ### Citation
