@@ -10,6 +10,8 @@ Nilesh Kulkarni, Abhinav Gupta\*, Shubham Tulsiani\*
 -  Python 2.7
 -  PyTorch 0.4
 
+### Follow-up work on Articulation-aware Canonical Surface Mapping
+Please checkout the follow-up work [here](http://github.com/nileshkulkarni/acsm)
 
 ### Installation
 Following instructions [here](installation.md)
@@ -40,5 +42,7 @@ If you use this code for your research, please consider citing:
 
 ```
 
+
 ### Acknowledgements
 Parts of this code were borrowed from [CMR](https://github.com/akanazawa/cmr).
+
