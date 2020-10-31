@@ -11,7 +11,7 @@ Nilesh Kulkarni, Abhinav Gupta\*, Shubham Tulsiani\*
 -  PyTorch 0.4
 
 ### Follow-up work on Articulation-aware Canonical Surface Mapping
-Please checkout the follow-up work [here](http://github.com/nileshkulkarni/acsm)
+Please checkout the follow-up work [here](http://github.com/nileshkulkarni/acsm). We show results on over 10 categories.
 
 ### Installation
 Following instructions [here](installation.md)
