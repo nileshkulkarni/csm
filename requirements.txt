@@ -1,5 +1,5 @@
 meshzoo==0.3.1
-opencv-python==3.4.0.12 
+opencv-python==3.4.7.28 
 tqdm==4.19.5
 visdom==0.1.7
 yattag==1.10.1
